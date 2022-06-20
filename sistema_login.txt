@@ -1,1 +1,3 @@
-teste1
+digite seu email:
+digite sua senha:
+digite seu nome:
